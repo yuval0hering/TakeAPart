@@ -1,2 +1,2 @@
 # TakeAPart
-application for mange and share assignment and tasks
+application for mange and share assignments and tasks
