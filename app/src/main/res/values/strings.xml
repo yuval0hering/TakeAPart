@@ -4,4 +4,5 @@
     <string name="add_project_title">Create new project</string>
     <string name="project_name_text">Project Name</string>
     <string name="due_date_text">Due Date</string>
+    <string name="save">Save</string>
 </resources>
